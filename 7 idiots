@@ -1,1 +1,10 @@
 this is nwe file
+so u go fuck
+public test
+{
+  public static void main(String[] args)
+  {
+    system.out.println("hello");
+  }
+  
+}
